@@ -1,4 +1,5 @@
 /**
+ * @author Drumstyle92
  * class that contains the whole program.
  */
 public class Tester {
